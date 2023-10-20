@@ -8,4 +8,4 @@ Team Members: Brad Lee, Olivia Qi, Jiarui Tang, Wei-Han Chen
 
 ## Planning
 
-[Planning](main/Docs/planning.md)
+[Planning](/Docs/planning.md)
