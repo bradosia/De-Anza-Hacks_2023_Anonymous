@@ -1,0 +1,10 @@
+version: 1
+frontend:
+  phases:
+    postBuild:
+      commands:
+        - python app.py
+  artifacts:
+    baseDirectory: build
+    files:
+      - '**/*'
