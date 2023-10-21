@@ -14,4 +14,5 @@ Team Members: Brad Lee, Olivia Qi, Jiarui Tang, Wei-Han Chen
 
 ```python
 pip install python-dotenv
+pip install flask
 ```
