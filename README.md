@@ -1,24 +1,15 @@
-# De Anza Hacks 2023 - TEAM Anyonymous
-Team Name: Anonymous  
-Team Members: Brad Lee, Olivia Qi, Jiarui Tang, Wei-Han Chen
+# Getting Started with Create React App
 
-## Technical
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-* Use Python
+## Available Scripts
 
-## Planning
+In the project directory, you can run:
 
-[Planning](/Docs/planning.md)
+### `npm start`
 
-## Dependencies
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-```python
-pip install flask
-pip install python-dotenv
-```
-
-## Run
-
-```python
-python app.py
-```
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
