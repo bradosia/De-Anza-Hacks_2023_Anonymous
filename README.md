@@ -15,6 +15,7 @@ Team Members: Brad Lee, Olivia Qi, Jiarui Tang, Wei-Han Chen
 ```python
 pip install flask
 pip install python-dotenv
+pip install python-socketio
 ```
 
 ## Run
