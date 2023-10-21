@@ -9,3 +9,9 @@ Team Members: Brad Lee, Olivia Qi, Jiarui Tang, Wei-Han Chen
 ## Planning
 
 [Planning](/Docs/planning.md)
+
+## Dependencies
+
+```python
+pip install python-dotenv
+```
