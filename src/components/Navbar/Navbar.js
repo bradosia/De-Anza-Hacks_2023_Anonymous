@@ -34,28 +34,8 @@ function Navbar() {
               </Link>
             </li>
             <li className="nav-item active">
-              <Link to="/profile" className="nav-link">
-                Profile
-              </Link>
-            </li>
-            <li className="nav-item active">
               <Link to="/Rider" className="nav-link">
                 Rider
-              </Link>
-            </li>
-            <li className="nav-item active">
-              <Link to="/Driver" className="nav-link">
-                Driver
-              </Link>
-            </li>
-            <li className="nav-item active">
-              <Link to="/DriverSignup" className="nav-link">
-                Become a Driver?
-              </Link>
-            </li>
-            <li className="nav-item active">
-              <Link to="/Login" className="nav-link">
-                  Log out
               </Link>
             </li>
           </ul>

@@ -14,7 +14,7 @@ import driverIcon from './driverIcon.png';
 import riderIcon from './riderIcon.png';
 import routeEndIcon from './routeEndIcon.png';
 
-const ACCESS_TOKEN = "pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4M29iazA2Z2gycXA4N2pmbDZmangifQ.-g_vE53SD2WrJ6tFX7QHmA";
+const ACCESS_TOKEN = "pk.eyJ1IjoiYnJhZG9zaWEiLCJhIjoiY2xvMDRkZmlqMGJxOTJrcnNjeDhjZzRlaCJ9.aV8plDZBTvsao7HlQqO66g";
 mapboxgl.accessToken = ACCESS_TOKEN;
 
 function sleep(ms) {
