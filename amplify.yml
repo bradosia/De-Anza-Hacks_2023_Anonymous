@@ -3,6 +3,7 @@ frontend:
   phases:
     preBuild:
       commands:
+        - pip3 install
         - pip install flask
         - pip install python-dotenv
     build:
