@@ -6,10 +6,7 @@ frontend:
         - npm install
     build:
       commands:
-        - npm build
-    postBuild:
-      commands:
-        - npm run
+        - npm run build
   artifacts:
     baseDirectory: build
     files:
