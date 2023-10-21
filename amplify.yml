@@ -3,7 +3,11 @@ frontend:
   phases:
     preBuild:
       commands:
-        - pip3 install
+        - ln -fs /usr/local/bin/pip3.8 /usr/bin/pip3
+        - ln -fs /usr/local/bin/python3.8 /usr/bin/python3
+        - pip3 install --user pipenv==2023.5.19
+        - pipenv --version
+        - pip3 install --user pipenv==2023.5.19
         - pip install flask
         - pip install python-dotenv
     build:
